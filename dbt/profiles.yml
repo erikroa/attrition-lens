@@ -1,0 +1,7 @@
+attrition_lens:
+  target: local
+  outputs:
+    local:
+      type: duckdb
+      path: "attrition_lens.duckdb"
+      threads: 4

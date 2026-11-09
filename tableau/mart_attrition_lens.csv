@@ -1,0 +1,145 @@
+lens_row_id,unit,date_basis,segment_source,tier,attrition_year,attrition_count,run_rate_eur
+entity|contract clock|BRR tier|Anchor|2023,entity,contract clock,BRR tier,Anchor,2023,18,1945512.00
+entity|contract clock|BRR tier|Anchor|2024,entity,contract clock,BRR tier,Anchor,2024,16,1891812.00
+entity|contract clock|BRR tier|Anchor|2025,entity,contract clock,BRR tier,Anchor,2025,12,1464372.00
+entity|contract clock|BRR tier|Scale|2023,entity,contract clock,BRR tier,Scale,2023,17,788712.00
+entity|contract clock|BRR tier|Scale|2024,entity,contract clock,BRR tier,Scale,2024,39,1798104.00
+entity|contract clock|BRR tier|Scale|2025,entity,contract clock,BRR tier,Scale,2025,30,1371480.00
+entity|contract clock|BRR tier|Standard|2023,entity,contract clock,BRR tier,Standard,2023,28,440376.00
+entity|contract clock|BRR tier|Standard|2024,entity,contract clock,BRR tier,Standard,2024,40,766488.00
+entity|contract clock|BRR tier|Standard|2025,entity,contract clock,BRR tier,Standard,2025,38,683928.00
+entity|contract clock|BRR tier|Starter|2023,entity,contract clock,BRR tier,Starter,2023,35,187560.00
+entity|contract clock|BRR tier|Starter|2024,entity,contract clock,BRR tier,Starter,2024,14,75180.00
+entity|contract clock|BRR tier|Starter|2025,entity,contract clock,BRR tier,Starter,2025,27,212580.00
+entity|contract clock|Deal Ledger tier|Anchor|2023,entity,contract clock,Deal Ledger tier,Anchor,2023,18,2045160.00
+entity|contract clock|Deal Ledger tier|Anchor|2024,entity,contract clock,Deal Ledger tier,Anchor,2024,15,1873404.00
+entity|contract clock|Deal Ledger tier|Anchor|2025,entity,contract clock,Deal Ledger tier,Anchor,2025,13,1527552.00
+entity|contract clock|Deal Ledger tier|Scale|2023,entity,contract clock,Deal Ledger tier,Scale,2023,15,677964.00
+entity|contract clock|Deal Ledger tier|Scale|2024,entity,contract clock,Deal Ledger tier,Scale,2024,41,1879248.00
+entity|contract clock|Deal Ledger tier|Scale|2025,entity,contract clock,Deal Ledger tier,Scale,2025,29,1366512.00
+entity|contract clock|Deal Ledger tier|Standard|2023,entity,contract clock,Deal Ledger tier,Standard,2023,31,465156.00
+entity|contract clock|Deal Ledger tier|Standard|2024,entity,contract clock,Deal Ledger tier,Standard,2024,41,724284.00
+entity|contract clock|Deal Ledger tier|Standard|2025,entity,contract clock,Deal Ledger tier,Standard,2025,41,730656.00
+entity|contract clock|Deal Ledger tier|Starter|2023,entity,contract clock,Deal Ledger tier,Starter,2023,34,173880.00
+entity|contract clock|Deal Ledger tier|Starter|2024,entity,contract clock,Deal Ledger tier,Starter,2024,12,54648.00
+entity|contract clock|Deal Ledger tier|Starter|2025,entity,contract clock,Deal Ledger tier,Starter,2025,24,107640.00
+entity|status clock|BRR tier|Anchor|2023,entity,status clock,BRR tier,Anchor,2023,19,2013840.00
+entity|status clock|BRR tier|Anchor|2024,entity,status clock,BRR tier,Anchor,2024,12,1444404.00
+entity|status clock|BRR tier|Anchor|2025,entity,status clock,BRR tier,Anchor,2025,12,1587924.00
+entity|status clock|BRR tier|Scale|2023,entity,status clock,BRR tier,Scale,2023,26,1197372.00
+entity|status clock|BRR tier|Scale|2024,entity,status clock,BRR tier,Scale,2024,43,1979208.00
+entity|status clock|BRR tier|Scale|2025,entity,status clock,BRR tier,Scale,2025,30,1379124.00
+entity|status clock|BRR tier|Standard|2023,entity,status clock,BRR tier,Standard,2023,32,543036.00
+entity|status clock|BRR tier|Standard|2024,entity,status clock,BRR tier,Standard,2024,44,803304.00
+entity|status clock|BRR tier|Standard|2025,entity,status clock,BRR tier,Standard,2025,48,842520.00
+entity|status clock|BRR tier|Starter|2023,entity,status clock,BRR tier,Starter,2023,33,177624.00
+entity|status clock|BRR tier|Starter|2024,entity,status clock,BRR tier,Starter,2024,23,119892.00
+entity|status clock|BRR tier|Starter|2025,entity,status clock,BRR tier,Starter,2025,30,227484.00
+entity|status clock|Deal Ledger tier|Anchor|2023,entity,status clock,Deal Ledger tier,Anchor,2023,19,2113488.00
+entity|status clock|Deal Ledger tier|Anchor|2024,entity,status clock,Deal Ledger tier,Anchor,2024,11,1425996.00
+entity|status clock|Deal Ledger tier|Anchor|2025,entity,status clock,Deal Ledger tier,Anchor,2025,13,1651104.00
+entity|status clock|Deal Ledger tier|Scale|2023,entity,status clock,Deal Ledger tier,Scale,2023,24,1086624.00
+entity|status clock|Deal Ledger tier|Scale|2024,entity,status clock,Deal Ledger tier,Scale,2024,45,2060352.00
+entity|status clock|Deal Ledger tier|Scale|2025,entity,status clock,Deal Ledger tier,Scale,2025,29,1374156.00
+entity|status clock|Deal Ledger tier|Standard|2023,entity,status clock,Deal Ledger tier,Standard,2023,35,567816.00
+entity|status clock|Deal Ledger tier|Standard|2024,entity,status clock,Deal Ledger tier,Standard,2024,45,761100.00
+entity|status clock|Deal Ledger tier|Standard|2025,entity,status clock,Deal Ledger tier,Standard,2025,51,889248.00
+entity|status clock|Deal Ledger tier|Starter|2023,entity,status clock,Deal Ledger tier,Starter,2023,32,163944.00
+entity|status clock|Deal Ledger tier|Starter|2024,entity,status clock,Deal Ledger tier,Starter,2024,21,99360.00
+entity|status clock|Deal Ledger tier|Starter|2025,entity,status clock,Deal Ledger tier,Starter,2025,27,122544.00
+group_any|contract clock|BRR tier|Anchor|2023,group_any,contract clock,BRR tier,Anchor,2023,10,1612296.00
+group_any|contract clock|BRR tier|Anchor|2024,group_any,contract clock,BRR tier,Anchor,2024,9,1891812.00
+group_any|contract clock|BRR tier|Anchor|2025,group_any,contract clock,BRR tier,Anchor,2025,9,1489860.00
+group_any|contract clock|BRR tier|Scale|2023,group_any,contract clock,BRR tier,Scale,2023,9,794292.00
+group_any|contract clock|BRR tier|Scale|2024,group_any,contract clock,BRR tier,Scale,2024,26,1731576.00
+group_any|contract clock|BRR tier|Scale|2025,group_any,contract clock,BRR tier,Scale,2025,25,1352484.00
+group_any|contract clock|BRR tier|Standard|2023,group_any,contract clock,BRR tier,Standard,2023,26,428340.00
+group_any|contract clock|BRR tier|Standard|2024,group_any,contract clock,BRR tier,Standard,2024,33,823140.00
+group_any|contract clock|BRR tier|Standard|2025,group_any,contract clock,BRR tier,Standard,2025,26,633648.00
+group_any|contract clock|BRR tier|Starter|2023,group_any,contract clock,BRR tier,Starter,2023,31,527232.00
+group_any|contract clock|BRR tier|Starter|2024,group_any,contract clock,BRR tier,Starter,2024,12,85056.00
+group_any|contract clock|BRR tier|Starter|2025,group_any,contract clock,BRR tier,Starter,2025,20,256368.00
+group_any|contract clock|Deal Ledger tier|Anchor|2023,group_any,contract clock,Deal Ledger tier,Anchor,2023,10,1711944.00
+group_any|contract clock|Deal Ledger tier|Anchor|2024,group_any,contract clock,Deal Ledger tier,Anchor,2024,8,1873404.00
+group_any|contract clock|Deal Ledger tier|Anchor|2025,group_any,contract clock,Deal Ledger tier,Anchor,2025,10,1553040.00
+group_any|contract clock|Deal Ledger tier|Scale|2023,group_any,contract clock,Deal Ledger tier,Scale,2023,7,683544.00
+group_any|contract clock|Deal Ledger tier|Scale|2024,group_any,contract clock,Deal Ledger tier,Scale,2024,28,1812720.00
+group_any|contract clock|Deal Ledger tier|Scale|2025,group_any,contract clock,Deal Ledger tier,Scale,2025,24,1347516.00
+group_any|contract clock|Deal Ledger tier|Standard|2023,group_any,contract clock,Deal Ledger tier,Standard,2023,29,453120.00
+group_any|contract clock|Deal Ledger tier|Standard|2024,group_any,contract clock,Deal Ledger tier,Standard,2024,34,780936.00
+group_any|contract clock|Deal Ledger tier|Standard|2025,group_any,contract clock,Deal Ledger tier,Standard,2025,29,680376.00
+group_any|contract clock|Deal Ledger tier|Starter|2023,group_any,contract clock,Deal Ledger tier,Starter,2023,30,513552.00
+group_any|contract clock|Deal Ledger tier|Starter|2024,group_any,contract clock,Deal Ledger tier,Starter,2024,10,64524.00
+group_any|contract clock|Deal Ledger tier|Starter|2025,group_any,contract clock,Deal Ledger tier,Starter,2025,17,151428.00
+group_any|status clock|BRR tier|Anchor|2023,group_any,status clock,BRR tier,Anchor,2023,11,1680624.00
+group_any|status clock|BRR tier|Anchor|2024,group_any,status clock,BRR tier,Anchor,2024,5,1444404.00
+group_any|status clock|BRR tier|Anchor|2025,group_any,status clock,BRR tier,Anchor,2025,9,1613412.00
+group_any|status clock|BRR tier|Scale|2023,group_any,status clock,BRR tier,Scale,2023,18,1202952.00
+group_any|status clock|BRR tier|Scale|2024,group_any,status clock,BRR tier,Scale,2024,30,1912680.00
+group_any|status clock|BRR tier|Scale|2025,group_any,status clock,BRR tier,Scale,2025,25,1360128.00
+group_any|status clock|BRR tier|Standard|2023,group_any,status clock,BRR tier,Standard,2023,30,531000.00
+group_any|status clock|BRR tier|Standard|2024,group_any,status clock,BRR tier,Standard,2024,37,859956.00
+group_any|status clock|BRR tier|Standard|2025,group_any,status clock,BRR tier,Standard,2025,36,792240.00
+group_any|status clock|BRR tier|Starter|2023,group_any,status clock,BRR tier,Starter,2023,29,517296.00
+group_any|status clock|BRR tier|Starter|2024,group_any,status clock,BRR tier,Starter,2024,21,129768.00
+group_any|status clock|BRR tier|Starter|2025,group_any,status clock,BRR tier,Starter,2025,23,271272.00
+group_any|status clock|Deal Ledger tier|Anchor|2023,group_any,status clock,Deal Ledger tier,Anchor,2023,11,1780272.00
+group_any|status clock|Deal Ledger tier|Anchor|2024,group_any,status clock,Deal Ledger tier,Anchor,2024,4,1425996.00
+group_any|status clock|Deal Ledger tier|Anchor|2025,group_any,status clock,Deal Ledger tier,Anchor,2025,10,1676592.00
+group_any|status clock|Deal Ledger tier|Scale|2023,group_any,status clock,Deal Ledger tier,Scale,2023,16,1092204.00
+group_any|status clock|Deal Ledger tier|Scale|2024,group_any,status clock,Deal Ledger tier,Scale,2024,32,1993824.00
+group_any|status clock|Deal Ledger tier|Scale|2025,group_any,status clock,Deal Ledger tier,Scale,2025,24,1355160.00
+group_any|status clock|Deal Ledger tier|Standard|2023,group_any,status clock,Deal Ledger tier,Standard,2023,33,555780.00
+group_any|status clock|Deal Ledger tier|Standard|2024,group_any,status clock,Deal Ledger tier,Standard,2024,38,817752.00
+group_any|status clock|Deal Ledger tier|Standard|2025,group_any,status clock,Deal Ledger tier,Standard,2025,39,838968.00
+group_any|status clock|Deal Ledger tier|Starter|2023,group_any,status clock,Deal Ledger tier,Starter,2023,28,503616.00
+group_any|status clock|Deal Ledger tier|Starter|2024,group_any,status clock,Deal Ledger tier,Starter,2024,19,109236.00
+group_any|status clock|Deal Ledger tier|Starter|2025,group_any,status clock,Deal Ledger tier,Starter,2025,20,166332.00
+group_full|contract clock|BRR tier|Anchor|2023,group_full,contract clock,BRR tier,Anchor,2023,9,1346940.00
+group_full|contract clock|BRR tier|Anchor|2024,group_full,contract clock,BRR tier,Anchor,2024,9,1891812.00
+group_full|contract clock|BRR tier|Anchor|2025,group_full,contract clock,BRR tier,Anchor,2025,9,1489860.00
+group_full|contract clock|BRR tier|Scale|2023,group_full,contract clock,BRR tier,Scale,2023,7,697080.00
+group_full|contract clock|BRR tier|Scale|2024,group_full,contract clock,BRR tier,Scale,2024,21,1457652.00
+group_full|contract clock|BRR tier|Scale|2025,group_full,contract clock,BRR tier,Scale,2025,20,1155792.00
+group_full|contract clock|BRR tier|Standard|2023,group_full,contract clock,BRR tier,Standard,2023,23,363204.00
+group_full|contract clock|BRR tier|Standard|2024,group_full,contract clock,BRR tier,Standard,2024,29,710796.00
+group_full|contract clock|BRR tier|Standard|2025,group_full,contract clock,BRR tier,Standard,2025,23,566028.00
+group_full|contract clock|BRR tier|Starter|2023,group_full,contract clock,BRR tier,Starter,2023,27,277404.00
+group_full|contract clock|BRR tier|Starter|2024,group_full,contract clock,BRR tier,Starter,2024,11,60276.00
+group_full|contract clock|BRR tier|Starter|2025,group_full,contract clock,BRR tier,Starter,2025,18,191052.00
+group_full|contract clock|Deal Ledger tier|Anchor|2023,group_full,contract clock,Deal Ledger tier,Anchor,2023,9,1446588.00
+group_full|contract clock|Deal Ledger tier|Anchor|2024,group_full,contract clock,Deal Ledger tier,Anchor,2024,8,1873404.00
+group_full|contract clock|Deal Ledger tier|Anchor|2025,group_full,contract clock,Deal Ledger tier,Anchor,2025,10,1553040.00
+group_full|contract clock|Deal Ledger tier|Scale|2023,group_full,contract clock,Deal Ledger tier,Scale,2023,5,586332.00
+group_full|contract clock|Deal Ledger tier|Scale|2024,group_full,contract clock,Deal Ledger tier,Scale,2024,23,1538796.00
+group_full|contract clock|Deal Ledger tier|Scale|2025,group_full,contract clock,Deal Ledger tier,Scale,2025,19,1150824.00
+group_full|contract clock|Deal Ledger tier|Standard|2023,group_full,contract clock,Deal Ledger tier,Standard,2023,26,387984.00
+group_full|contract clock|Deal Ledger tier|Standard|2024,group_full,contract clock,Deal Ledger tier,Standard,2024,30,668592.00
+group_full|contract clock|Deal Ledger tier|Standard|2025,group_full,contract clock,Deal Ledger tier,Standard,2025,26,612756.00
+group_full|contract clock|Deal Ledger tier|Starter|2023,group_full,contract clock,Deal Ledger tier,Starter,2023,26,263724.00
+group_full|contract clock|Deal Ledger tier|Starter|2024,group_full,contract clock,Deal Ledger tier,Starter,2024,9,39744.00
+group_full|contract clock|Deal Ledger tier|Starter|2025,group_full,contract clock,Deal Ledger tier,Starter,2025,15,86112.00
+group_full|status clock|BRR tier|Anchor|2023,group_full,status clock,BRR tier,Anchor,2023,10,1415268.00
+group_full|status clock|BRR tier|Anchor|2024,group_full,status clock,BRR tier,Anchor,2024,5,1444404.00
+group_full|status clock|BRR tier|Anchor|2025,group_full,status clock,BRR tier,Anchor,2025,9,1613412.00
+group_full|status clock|BRR tier|Scale|2023,group_full,status clock,BRR tier,Scale,2023,15,1068696.00
+group_full|status clock|BRR tier|Scale|2024,group_full,status clock,BRR tier,Scale,2024,24,1575840.00
+group_full|status clock|BRR tier|Scale|2025,group_full,status clock,BRR tier,Scale,2025,20,1163436.00
+group_full|status clock|BRR tier|Standard|2023,group_full,status clock,BRR tier,Standard,2023,26,441084.00
+group_full|status clock|BRR tier|Standard|2024,group_full,status clock,BRR tier,Standard,2024,32,722832.00
+group_full|status clock|BRR tier|Standard|2025,group_full,status clock,BRR tier,Standard,2025,31,701256.00
+group_full|status clock|BRR tier|Starter|2023,group_full,status clock,BRR tier,Starter,2023,25,267468.00
+group_full|status clock|BRR tier|Starter|2024,group_full,status clock,BRR tier,Starter,2024,20,104988.00
+group_full|status clock|BRR tier|Starter|2025,group_full,status clock,BRR tier,Starter,2025,21,205956.00
+group_full|status clock|Deal Ledger tier|Anchor|2023,group_full,status clock,Deal Ledger tier,Anchor,2023,10,1514916.00
+group_full|status clock|Deal Ledger tier|Anchor|2024,group_full,status clock,Deal Ledger tier,Anchor,2024,4,1425996.00
+group_full|status clock|Deal Ledger tier|Anchor|2025,group_full,status clock,Deal Ledger tier,Anchor,2025,10,1676592.00
+group_full|status clock|Deal Ledger tier|Scale|2023,group_full,status clock,Deal Ledger tier,Scale,2023,13,957948.00
+group_full|status clock|Deal Ledger tier|Scale|2024,group_full,status clock,Deal Ledger tier,Scale,2024,26,1656984.00
+group_full|status clock|Deal Ledger tier|Scale|2025,group_full,status clock,Deal Ledger tier,Scale,2025,19,1158468.00
+group_full|status clock|Deal Ledger tier|Standard|2023,group_full,status clock,Deal Ledger tier,Standard,2023,29,465864.00
+group_full|status clock|Deal Ledger tier|Standard|2024,group_full,status clock,Deal Ledger tier,Standard,2024,33,680628.00
+group_full|status clock|Deal Ledger tier|Standard|2025,group_full,status clock,Deal Ledger tier,Standard,2025,34,747984.00
+group_full|status clock|Deal Ledger tier|Starter|2023,group_full,status clock,Deal Ledger tier,Starter,2023,24,253788.00
+group_full|status clock|Deal Ledger tier|Starter|2024,group_full,status clock,Deal Ledger tier,Starter,2024,18,84456.00
+group_full|status clock|Deal Ledger tier|Starter|2025,group_full,status clock,Deal Ledger tier,Starter,2025,18,101016.00

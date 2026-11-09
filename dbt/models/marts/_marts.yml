@@ -1,0 +1,81 @@
+version: 2
+
+models:
+  - name: mart_attrition_lens
+    description: Attrition count and run-rate EUR for every Unit x Date x Segment source x tier x year.
+    columns:
+      - name: lens_row_id
+        data_tests: [unique, not_null]
+      - name: unit
+        data_tests:
+          - accepted_values:
+              arguments: {values: ["entity", "group_any", "group_full"]}
+      - name: date_basis
+        data_tests:
+          - accepted_values:
+              arguments: {values: ["status clock", "contract clock"]}
+      - name: segment_source
+        data_tests:
+          - accepted_values:
+              arguments: {values: ["Deal Ledger tier", "BRR tier"]}
+      - name: tier
+        data_tests:
+          - accepted_values:
+              arguments: {values: ["Anchor", "Scale", "Standard", "Starter"]}
+
+  - name: mart_variance_bridge
+    description: Basis A to Basis B, one reason code per moving group. Ties out by year and tier.
+    columns:
+      - name: bridge_row_id
+        data_tests: [unique, not_null]
+      - name: row_type
+        data_tests:
+          - accepted_values:
+              arguments: {values: ["basis_a", "removal", "addition", "amount_only", "basis_b"]}
+      - name: reason_code
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["rebound", "entity_transfer", "status_lag", "member_only_departure",
+                         "tier_source_mismatch", "clock_year_shift"]
+      - name: group_id
+        data_tests:
+          - relationships:
+              arguments: {to: ref('stg_deal_ledger__entities'), field: entity_id}
+
+  - name: mart_orphaned_billing
+    columns:
+      - name: entity_id
+        data_tests:
+          - unique
+          - not_null
+          - relationships:
+              arguments: {to: ref('stg_deal_ledger__entities'), field: entity_id}
+      - name: orphan_type
+        data_tests:
+          - accepted_values:
+              arguments: {values: ["active_plan", "post_departure_invoice"]}
+
+  - name: mart_run_rate_resolution
+    columns:
+      - name: entity_id
+        data_tests: [unique, not_null]
+      - name: resolution_outcome
+        data_tests:
+          - accepted_values:
+              arguments: {values: ["naive_match", "resolved_via_billing_key", "partner_biller_no_brr"]}
+
+  - name: mart_source_parity_health
+    columns:
+      - name: parity_row_id
+        data_tests: [unique, not_null]
+      - name: check_name
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["billing_link", "brr_run_rate", "partner_biller_gap", "tier_source",
+                         "end_date_convention", "duplicate_contact", "engagement_link", "clock_boundary"]
+      - name: source_system
+        data_tests:
+          - accepted_values:
+              arguments: {values: ["Billing Core", "BRR", "Partner Biller", "Engagement Hub"]}

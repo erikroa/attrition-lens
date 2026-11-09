@@ -1,0 +1,24 @@
+name: attrition_lens
+version: "1.0.0"
+config-version: 2
+profile: attrition_lens
+
+model-paths: ["models"]
+test-paths: ["tests"]
+target-path: "target"
+clean-targets: ["target", "logs"]
+
+vars:
+  reporting_years: [2023, 2024, 2025]
+  snapshot_date: "2026-03-31"
+  local_tz: "Europe/Amsterdam"
+  clock_tolerance_days: 7
+
+models:
+  attrition_lens:
+    staging:
+      +materialized: view
+    intermediate:
+      +materialized: table
+    marts:
+      +materialized: table

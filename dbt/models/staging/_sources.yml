@@ -1,0 +1,18 @@
+version: 2
+
+sources:
+  - name: raw
+    description: Raw CSV extracts written by generator/generate.py. Read as text; typing happens in staging.
+    meta:
+      external_location: "read_csv('../data/raw/{name}.csv', header = true, all_varchar = true)"
+    tables:
+      - name: deal_ledger_entities
+      - name: deal_ledger_status_history
+      - name: deal_ledger_contracts
+      - name: billing_core_customers
+      - name: billing_core_plans
+      - name: billing_core_invoices
+      - name: billing_core_crosswalk
+      - name: partner_biller_customers
+      - name: engagement_hub_contacts
+      - name: brr_run_rate
