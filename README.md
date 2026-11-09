@@ -134,9 +134,25 @@ CI (`.github/workflows/ci.yml`) runs generate → dbt build → export → pytes
 
 ## Dashboards
 
-Tableau Public: _link to be added_
+Interactive workbook on Tableau Public: [attrition-lens](https://public.tableau.com/app/profile/erik.roa/viz/attrition-lens/1Attritionoverview)
 
-<!-- Screenshots: docs/img/1-attrition-overview.png, 2-variance-bridge.png, 3-orphaned-billing.png, 4-source-parity-health.png -->
+Built from the five CSVs in `tableau/`. Default view: 2025, group_any, contract clock, BRR tier (Basis B).
+
+**1. Attrition overview**: switch Unit / Date / Segment source and watch the same book give a different number.
+
+![Attrition overview](docs/img/1-attrition-overview.png)
+
+**2. Variance bridge**: Basis A to Basis B, one bar per reason code; toggle between group count and run-rate EUR.
+
+![Variance bridge](docs/img/2-variance-bridge.png)
+
+**3. Orphaned billing**: departed entities still billing, MRR at risk by tier; clicking a tier filters the list.
+
+![Orphaned billing](docs/img/3-orphaned-billing.png)
+
+**4. Source parity health**: issue count and match rate per check, run-rate lookup outcome, and the row-level issues.
+
+![Source parity health](docs/img/4-source-parity-health.png)
 
 Build steps, click by click, are in [tableau/DASHBOARD_SPEC.md](tableau/DASHBOARD_SPEC.md).
 
